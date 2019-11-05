@@ -4,7 +4,7 @@
 
 const express = require("express");
 const bodyParser = require("body-parser");
-const PORT = process.env.PORT || 8000
+const PORT = 8050;
 const HOST = "0.0.0.0.";
 
 const app = express();
